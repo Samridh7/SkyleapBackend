@@ -2,10 +2,10 @@ const sequelize = require("sequelize");
 
 const db = new sequelize({
     dialect: "mysql",
-    database: 'heroku_8b009c0a6955c0e',
-    username: 'b95cb0bc45cb1c',
-    password: 'cf47b17a',
-    host: 'us-cdbr-east-06.cleardb.net'
+    database: 'sql6642837',
+    username: 'sql6642837',
+    password: 'CpaFntzkeG',
+    host: 'sql6.freesqldatabase.com'
 })
 
 // mysql://b95cb0bc45cb1c:cf47b17a@us-cdbr-east-06.cleardb.net/heroku_8b009c0a6955c0e?reconnect=true
